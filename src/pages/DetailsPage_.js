@@ -7,7 +7,7 @@ import Header from "parts/Header";
 import FeaturedImage from "parts/FeaturedImage";
 import PageDetailTitle from "parts/PageDetailTitle";
 import PageDetailDescription from "parts/PageDetailDescription";
-import BookingForm from "parts/BookingForm_";
+import BookingForm from "parts/BookingForm2";
 import Activities from "parts/Activities";
 import Testimony from "parts/Testimony";
 import Footer from "parts/Footer";
